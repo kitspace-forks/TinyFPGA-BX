@@ -1,0 +1,4 @@
+eda:
+  type: kicad
+  pcb: board/TinyFPGA-BX.kicad_pcb
+bom: board/TinyFPGA-BX.kicad_pcb
